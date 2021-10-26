@@ -1,7 +1,7 @@
 <h1 align="center">"Hello there!" 👋, I'm João</h1>
 <h3 align="center">A curious and fascinated with computers brazilian computional physics student.</h3>
 
-- 🔭 I’m currently working on [agent-based disease modeling, where you can see my last published work at:](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005550#:~:text=The%20agent%2Dbased%20model%20to,maximum%20size%20of%20the%20lattice.)
+- 🔭 I’m currently working on agent-based disease modeling, where you can see my last published work [here](https://www.sciencedirect.com/science/article/abs/pii/S0378437121005550#:~:text=The%20agent%2Dbased%20model%20to,maximum%20size%20of%20the%20lattice.)
 
 - 🌱 I’m currently learning **high-performance computing and ways to integrate desktop applications with databases.**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [http://lattes.cnpq.br/4250826039470086](http://lattes.cnpq.br/4250826039470086)
 
-- ⚡ Fun fact **I'm trying to reach 100% in Lego the Lord of the Rings**
+- ⚡ Fun fact **I'm trying to reach 100% completion in Lego the Lord of the Rings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
